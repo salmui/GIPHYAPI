@@ -1,8 +1,7 @@
 body{
-	background-image: url("assets/images/subtle-backgrounds.jpg");
 	background-size: 100%;
     background-repeat: no-repeat;
-    color: black;
+		background-color: teal;
 }
 * {
 	box-sizing: border-box;
@@ -24,7 +23,7 @@ img {
 }
 .container {
 	background-color: #fff;
-	opacity: 0.8;
+	opacity: 0.9;
 	padding: 20px;
 }
 .jumbotron {
@@ -32,5 +31,5 @@ img {
 }
 .jumbotron .h1, .jumbotron h1 {
     text-align: center;
-		color: #829299;
+		color: #000;
 }
