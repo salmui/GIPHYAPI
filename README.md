@@ -1,3 +1,3 @@
 # GIPHYAPI
 
-https://salmui.github.io/GiphyAPI/
+https://salmui.github.io/GIPHYAPI/
